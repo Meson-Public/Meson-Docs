@@ -39,14 +39,6 @@ Also, there will be some reward adjustments for servers in different regions.
 
 ![05/31/2021](../.gitbook/assets/image%20%287%29%20%281%29.png)
 
-## **What is the difference in the current testing period?**
-
-All the Testnet Tokens will be mapped to 1% of the Mainnet Tokens. according to [FAQ-Token](https://docs.meson.network/faq/token), there will be 100,000,000 initial Meson Tokens, of which there will be 1,000,000 Tokens are used as the exchange of Testnet Tokens.
-
-**Your Mainnet Tokens = \(Your Testnet Tokens / All Testnet Tokens\) \* \(1% \* All Mainnet Tokens\)                           = \(Your Testnet Tokens / All Testnet Tokens\) \* 1,000,000**
-
-> **For example, let's assume there will be total 160,000,000 Testnet Tokens at last, and you have 2,000,000 Testnet Tokens that time, then you will get \(2,000,000 / 160,000,000\) \* 1,000,000 = 125,000 Mainnet Tokens.**
-
 ## **Are there any tutorials for the deployment of Meson Network?**
 
 * [Google Cloud Platforms\(GCP\) ](https://docs.meson.network/deploy-meson/google-cloud-platform)

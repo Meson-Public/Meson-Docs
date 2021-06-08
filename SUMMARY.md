@@ -4,6 +4,7 @@
 * [FAQ](faq/README.md)
   * [Token](faq/token.md)
   * [Minning](faq/minning.md)
+  * [Test Period](faq/test-period.md)
 
 ## Deploy\(Mine\) Meson <a id="deploy-meson"></a>
 
