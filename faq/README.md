@@ -14,10 +14,12 @@ It is a bandwidth trading platform built on blockchain. We gather the idle bandw
 2. people who want to speed up their websites at a low price to users worldwide. 
 3. people who want to obtain some files, pictures, or videos from the Internet, but it is too slow because of the regional transmission restrictions or somehow.
 
+We don't recommend personal computers' users to install Meson yet. It is a rigmarole.
+
 ## **Why choose Meson Network?**
 
-* Cheap
-* Fast
-* Stable
+* Cheap - Make the best use of idle resources
+* Fast     - We have many nodes around the world to help you accelerate
+* Stable  - Files have multiple backups, and Meson could deliver your files well
 * Win-Win for server owners and content owners
 
