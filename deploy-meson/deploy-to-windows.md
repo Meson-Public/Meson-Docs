@@ -4,6 +4,10 @@ description: TODO. Please wait.
 
 # Deploy to Windows\(TODO\)
 
+## Be sure to have a direct public IP
+
+For public IP, you could check the IP address on the dashboard of your router, and compare it with the one you searched "My IP" from the website. If they are different, it means you don't own a public IP, and you have to get help from your network service provider or use Intranet penetration to deploy Meson then.
+
 ## Be sure to **Set up the Port Forwarding Rules**
 
 This step is important for your own personal computer to run Meson.
