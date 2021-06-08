@@ -5,6 +5,7 @@
   * [Token](faq/token.md)
   * [Minning](faq/minning.md)
   * [Test Period](faq/test-period.md)
+  * [About Blockchain](faq/about-blockchain.md)
 
 ## Deploy\(Mine\) Meson <a id="deploy-meson"></a>
 
