@@ -18,3 +18,7 @@ All the Testnet Tokens will be mapped to 1% of the MainNet Tokens. According to 
 
 We don't know, and we can't make a guarantee yet. It is determined by the date when Meson will close the TestNet and launch into the MainNet.
 
+Currently, there are more and more miners and nodes joining. As huge amount nodes joining in, we will start a community vote to decide our test token function\(curve\). So that while protecting the interests of existing miners to some extent, it could also increase the income of new entrants.
+
+
+
