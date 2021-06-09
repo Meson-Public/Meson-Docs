@@ -16,5 +16,5 @@ All the Testnet Tokens will be mapped to 1% of the MainNet Tokens. According to 
 
 ## **How many TestNet Tokens will be** distributed?
 
-We don't know, and we can't make a guarantee yet. It is determined by the date when Meson will launch into MainNet.
+We don't know, and we can't make a guarantee yet. It is determined by the date when Meson will close the TestNet and launch into the MainNet.
 
