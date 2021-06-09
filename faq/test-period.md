@@ -1,4 +1,4 @@
-# Test Period
+# TestNet Period
 
 ## **When will the testing period continue last?**
 
