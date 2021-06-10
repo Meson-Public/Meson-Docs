@@ -4,6 +4,8 @@ description: TODO. Please wait.
 
 # Deploy to Windows\(TODO\)
 
+It's much recommended to use Cloud Servers\(GCP, AWS, Azure, Alibaba, etc.\) which are easier and more stable. But if you still want to try to mine on your own PC at home with the network router...
+
 ## Be sure to have a direct public IP
 
 For public IP, you could check the IP address on the dashboard of your router, and compare it with the one you searched "My IP" from the website. If they are different, it means you don't own a public IP, and you have to get help from your network service provider or use Intranet penetration to deploy Meson then.
@@ -12,7 +14,7 @@ For public IP, you could check the IP address on the dashboard of your router, a
 
 This step is important for your own personal computer to run Meson.
 
-It's much recommended to use Cloud Servers\(GCP, AWS, Azure, Alibaba, etc.\) which are easier and more stable. But if you still want to try to mine on your own PC at home with the network router... You could search ——
+You could search ——
 
 **"Port Forwarding" + \[Your Router Brand\]** at YouTube/Google/etc...
 
