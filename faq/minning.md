@@ -39,6 +39,10 @@ Also, there will be some reward adjustments for servers in different regions.
 
 ![05/31/2021](../.gitbook/assets/image%20%287%29%20%281%29.png)
 
+## **How long does it take for a round that Meson awards tokens?**
+
+There are some algorithms on it, and it's kind of random and currently private. It's a fair reward per day separated. We are still doing these jobs to avoid cheat.
+
 ## **Are there any tutorials for the deployment of Meson Network?**
 
 * [Google Cloud Platforms\(GCP\) ](https://docs.meson.network/deploy-meson/google-cloud-platform)
