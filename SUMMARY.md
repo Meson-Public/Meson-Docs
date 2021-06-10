@@ -12,7 +12,7 @@
 * [General Instructions](deploy-meson/general-instructions.md)
 * [Google Cloud Platform](deploy-meson/google-cloud-platform.md)
 * [Deploy to Linux](deploy-meson/deploy-to-linux.md)
-* [Deploy to Windows\(TODO\)](deploy-meson/deploy-to-windows.md)
+* [Deploy to Windows](deploy-meson/deploy-to-windows.md)
 
 ## Use CDN Services of Meson
 

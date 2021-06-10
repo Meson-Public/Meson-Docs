@@ -1,8 +1,8 @@
 ---
-description: TODO. Please wait.
+description: Unfinished. Please wait.
 ---
 
-# Deploy to Windows\(TODO\)
+# Deploy to Windows
 
 It's much recommended to use Cloud Servers\(GCP, AWS, Azure, Alibaba, etc.\) which are easier and more stable. But if you still want to try to mine on your own PC at home with the network router...
 
