@@ -4,7 +4,7 @@ description: Unfinished. Please wait.
 
 # Deploy to Windows
 
-It's much recommended to use Cloud Servers\(GCP, AWS, Azure, Alibaba, etc.\) which are easier and more stable. But if you still want to try to mine on your own PC at home with the network router, you need to have a direct public IP and set up the port forwarding rules for your router.
+It's much recommended to use Cloud Servers\(GCP, AWS, Azure, Alibaba, etc.\) which are easier and more stable. But if you still want to try to mine on your own PC at home with the network router, you need to have a direct public IP and set up the port forwarding rules for your router. This could be complex while your income might be low because your upload bandwidth is usually not high and stable.
 
 ## Be sure to have a direct public IP
 
