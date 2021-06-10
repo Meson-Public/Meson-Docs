@@ -20,7 +20,7 @@ They are pretty easy and fast steps, and more tutorials will be provided for you
 2. Dedicated servers owners 
 3. IDC servers \(corporation/organization/schools\) owners. 
 
-They are welcomed to become our most stable terminals suppliers. As a result, by making the most use of these idle resources, it becomes an economical and healthy model according to the blueprint and positioning of Meson Network
+They are welcomed to become our most stable terminals suppliers. As a result, by making the most use of these idle resources, it becomes an economical and healthy model according to the blueprint and positioning of Meson Network Project.
 
 ## **What are the mining rules of Meson Network?**
 
@@ -30,7 +30,7 @@ Please check [https://meson.network/miningrules](https://meson.network/miningrul
 
 Basically, **Bandwidth** is the most important related fact for **BandwidthScore**.
 
-And, **Storage Space** is necessary to cache the files for **StorageScore**.
+And, **Storage Space** is necessary to cache the files for **StorageScore**. \(There is no big difference between the same size HDD and SSD. The cheaper HDD is recommended.\)
 
 In addition, standing and stable servers will have a higher **CreditScore**.
 
