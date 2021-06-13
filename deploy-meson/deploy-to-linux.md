@@ -54,6 +54,16 @@ After 2-3 minutes, you will have a new terminal record at [https://meson.network
 
 ### **Other Commands For Your Information**
 
+**If the above commands fail, you could just use**
+
+```text
+$ ./meson 
+```
+
+or " **nohup ./meson & "** to run it in the background.
+
+**Also, there are these commands to try**
+
 ```text
 $ sudo ./meson service-stop                #To Stop Meson Network Service
 
