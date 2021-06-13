@@ -14,17 +14,17 @@ description: It is a bandwidth trading platform built on blockchain.
 
 Meson Network is a bandwidth trading platform built on blockchain.
 
-> Meson Network is a bandwidth trading platform built on blockchain.
-
-{% hint style="info" %}
-Meson Network is a bandwidth trading platform built on blockchain. ^^
-{% endhint %}
+{% embed url="https://youtu.be/mRh\_hZXNV5o" caption="" %}
 
 ```text
-Meson Network is a bandwidth trading platform built on blockchain. ^^
+Meson Network is a bandwidth trading platform built on blockchain. 
 ```
 
-{% embed url="https://youtu.be/mRh\_hZXNV5o" caption="" %}
+{% hint style="info" %}
+Meson Network is a bandwidth trading platform built on blockchain. 
+{% endhint %}
+
+> Meson Network is a bandwidth trading platform built on blockchain.
 
 [한국어-Korean-Version-UnOfficial](https://app.gitbook.com/@mesonkr/s/meson-network-korea/deploy-meson/google-cloud-platform)
 

@@ -10,7 +10,6 @@
 ## Deploy\(Mine\) Meson <a id="deploy-meson"></a>
 
 * [General Instructions](deploy-meson/general-instructions.md)
-* [Google Cloud Platform](deploy-meson/google-cloud-platform.md)
 * [Deploy to Linux](deploy-meson/deploy-to-linux.md)
 * [Deploy to Windows](deploy-meson/deploy-to-windows.md)
 
@@ -29,4 +28,8 @@
 * [Telegram](https://t.me/mesonnetwork)
 * [Github](https://github.com/daqnext)
 * [Medium](https://medium.com/meson-network)
+
+## Reference but not recommended
+
+* [Google Cloud Platform](reference-but-not-recommended/google-cloud-platform.md)
 
