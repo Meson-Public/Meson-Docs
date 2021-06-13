@@ -32,12 +32,6 @@ $ ./meson-linux-amd64 && sudo ./meson service-install
 
 **2, Port** —— Please open a port \(default:19091\) from the firewall
 
-The below is an example of what to do in GCP:
-
-![](../.gitbook/assets/image%20%285%29.png)
-
-![](../.gitbook/assets/image%20%283%29.png)
-
 **3. Space** —— At least please offer 40+GB space for Meson.
 
 High Space and Bandwidth for High Earning. please check [https://meson.network/miningrules](https://meson.network/miningrules) for details.
