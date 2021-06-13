@@ -23,7 +23,6 @@
 
 * [Amazon Web Services\(TODO\)](todo/amazon-web-services.md)
 * [Azure\(TODO\)](todo/azure.md)
-* [Deploy to Mac\(TODO\)](todo/deploy-to-mac.md)
 
 ---
 
