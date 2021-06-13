@@ -1,16 +1,16 @@
 # General Instructions
 
-## Step1, Get a server
+## Step1, Own the servers
 
-![](../.gitbook/assets/image%20%282%29%20%281%29.png)
+Who are the most suitable miners for Meson Network?
 
-You could easily find the tutorials to apply for a trial server.
+1. Constant bandwidth users 
+2. Dedicated servers owners 
+3. IDC servers \(corporation/organization/schools\) owners. 
 
-for example, [https://www.youtube.com/results?search\_query=how+to+apply+free+gcp](https://www.youtube.com/results?search_query=how+to+apply+free+trial+gcp)
+They are welcomed to become our most stable terminals suppliers. As a result, by making the most use of these idle resources, it becomes an economical and healthy model according to the blueprint and positioning of Meson Network Project.
 
-
-
-## Step2, Set up a server.
+## Step2, Set up the servers.
 
 Most important things: 
 
