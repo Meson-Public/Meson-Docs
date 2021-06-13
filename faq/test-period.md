@@ -2,7 +2,7 @@
 
 ## **When will the testing period continue last?**
 
-![](../.gitbook/assets/image.png)
+![](../.gitbook/assets/mesonroadmap.png)
 
 We wish to launch Meson on the MainNet at Q3-Q4 of 2021. If there is some big success, it can be earlier possibly.
 
