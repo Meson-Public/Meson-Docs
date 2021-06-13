@@ -17,8 +17,6 @@ Most important things:
 * Providing enough space
 * Opening the port of the firewall
 
-for example, [https://docs.meson.network/deploy-meson/google-cloud-platform](https://docs.meson.network/deploy-meson/google-cloud-platform)
-
 ## Step3, Install Meson and Start the Service
 
 {% embed url="https://coldcdn.com/api/cdn/wr1cs5/video/3MinutesToMineMeson.mp4" %}
