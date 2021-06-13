@@ -41,7 +41,7 @@ Also, there will be some reward adjustments for servers in different regions.
 
 ## **How long does it take for a round that Meson awards tokens?**
 
-There are some algorithms on it, and it's kind of random and currently private. It's a fair reward per day separated. We are still doing these jobs to avoid cheat.  
+For security reasons, the rewarding period is randomly decided by some algorithms of Meson Network. If your mining server is not working properly during the rewarding period you may miss the reward tokens.  
 
 
 
