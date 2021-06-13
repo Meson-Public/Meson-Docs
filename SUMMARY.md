@@ -21,9 +21,6 @@
 
 ## DOCS TODO <a id="todo"></a>
 
-* [Amazon Web Services\(TODO\)](todo/amazon-web-services.md)
-* [Azure\(TODO\)](todo/azure.md)
-
 ---
 
 * [Website](https://meson.network/)

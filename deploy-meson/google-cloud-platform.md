@@ -106,7 +106,7 @@ Discord: [https://discord.com/invite/z6YfSHDkmS](https://discord.com/invite/z6Yf
 
 Telegram: [https://t.me/mesonnetwork](https://t.me/mesonnetwork)
 
-## Please be Aware of the Price Beyond the Free Trial
+## Please be aware of the traffic price
 
 [https://cloud.google.com/vpc/network-pricing](https://cloud.google.com/vpc/network-pricing)
 
