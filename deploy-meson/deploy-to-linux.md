@@ -11,6 +11,8 @@ $ wget 'https://coldcdn.com/api/cdn/f2cobx/terminal/v2.5.1/meson-linux-amd64.tar
 ```
 
 > If you get notifications like "-bash: wget: command not found" telling that you can't use this command, please install wget by using "**sudo apt-get install wget**" first.
+>
+> If the above link is abnormal, please try the backup link '[https://assets.meson.network:10443/static/terminal/v2.5.1/meson-linux-amd64.tar.gz](https://assets.meson.network:10443/static/terminal/v2.5.1/meson-linux-amd64.tar.gz)'
 
 ### Command 2, Unzip this package
 
