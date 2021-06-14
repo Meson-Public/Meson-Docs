@@ -7,7 +7,7 @@
 ### Command 1, Download and Install Meson
 
 ```text
-$ wget 'https://assets.meson.network:10443/static/terminal/v2.5.1/meson-linux-amd64.tar.gz'
+$ wget 'https://coldcdn.com/api/cdn/f2cobx/terminal/v2.5.1/meson-linux-amd64.tar.gz'
 ```
 
 > If you get notifications like "-bash: wget: command not found" telling that you can't use this command, please install wget by using "**sudo apt-get install wget**" first.
