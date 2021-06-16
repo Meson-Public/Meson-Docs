@@ -31,7 +31,7 @@
 
 ## Multi-language
 
-* [Korea](multi-language/korea.md)
+* [Korean](multi-language/korea.md)
 
 ## Reference but not recommended
 
