@@ -1,5 +1,5 @@
 ---
-description: Unofficial guidebook support - Korea ^^
+description: Unofficial guidebook support - Korean ^^
 ---
 
 # Korean
