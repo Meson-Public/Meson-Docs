@@ -2,11 +2,11 @@
 
 ## Having reached this part, we assume that you already have a server with 40+GB space and an opened port.
 
-\[ Code reference: [https://meson.network/terminals](https://meson.network/terminals) \]
+\[ Code reference: [https://meson.network/terminals](https://meson.network/terminals) ]
 
 ### Command 1, Download and Install Meson
 
-```text
+```
 $ wget 'https://coldcdn.com/api/cdn/f2cobx/terminal/v2.5.1/meson-linux-amd64.tar.gz'
 ```
 
@@ -16,31 +16,31 @@ $ wget 'https://coldcdn.com/api/cdn/f2cobx/terminal/v2.5.1/meson-linux-amd64.tar
 
 ### Command 2, Unzip this package
 
-```text
+```
 $ tar -zxf meson-linux-amd64.tar.gz
 ```
 
 ### Command 3, Install Meson as a service
 
-```text
+```
 $ ./meson-linux-amd64 && sudo ./meson service-install
 ```
 
 **Token, Port, and Space are parameter you need to input here:**
 
-**1, Token** —— from [https://meson.network/terminals](https://meson.network/terminals)
+**1, Token **—— from [https://meson.network/terminals](https://meson.network/terminals)
 
-![Please input your own Token. This is your ID.](../.gitbook/assets/image%20%288%29.png)
+![Please input your own Token. This is your ID.](<../.gitbook/assets/image (8).png>)
 
-**2, Port** —— Please open a port \(default:19091\) from the firewall
+**2, Port** —— Please open a port (default:19091) from the firewall
 
-**3. Space** —— At least please offer 40+GB space for Meson.
+**3. Space **—— At least please offer 40+GB space for Meson.
 
 High Space and Bandwidth for High Earning. please check [https://meson.network/miningrules](https://meson.network/miningrules) for details.
 
 ### Command 4, Start the service of Meson
 
-```text
+```
 $ sudo ./meson service-start
 ```
 
@@ -48,7 +48,7 @@ $ sudo ./meson service-start
 
 Please wait about 1 minute after the above one.
 
-```text
+```
 $ sudo ./meson service-status
 ```
 
@@ -56,19 +56,19 @@ After 2-3 minutes, you will have a new terminal record at [https://meson.network
 
 ### **Other Commands For Your Information**
 
-If the above commands\(4 - 5\) fail, you could just use
+If the above commands(4 - 5) fail, you could just use
 
-```text
+```
 $ ./meson 
 ```
 
-or " **nohup ./meson & "** to run it in the background.
+or " **nohup ./meson & " **to run it in the background.
 
 
 
 Also, there are these commands to try
 
-```text
+```
 $ sudo ./meson service-stop                #To Stop Meson Network Service
 
 $ sudo ./meson service-remove              #To Remove Meson Network Application
@@ -92,10 +92,9 @@ And then restart Meson by using "sudo ./meson service-stop" and "sudo ./meson se
 
 It's much recommended to use servers rather than personal computers which are easier and more stable. But if you still want to try to mine on your own PC at home with the network router...
 
-**Please make sure that** 
+**Please make sure that **
 
 1. You truly have an unshared bandwidth and a direct **public IP**.
 2. You have set up the **Port-Forwarding** rules.
 
 For public IP, you could check the IP address on the dashboard of your router, and compare it with the one you searched "My IP" from the website. If they are different, it means you don't own a public IP, and you have to get help from your network service provider or use Intranet penetration to deploy Meson then.
-

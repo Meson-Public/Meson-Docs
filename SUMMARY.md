@@ -4,10 +4,11 @@
 * [FAQ](faq/README.md)
   * [Token](faq/token.md)
   * [Minning](faq/minning.md)
-  * [TestNet Period](faq/test-period.md)
   * [About Blockchain](faq/about-blockchain.md)
+  * [TestNet Period](faq/test-period.md)
+  * [\[ERC20\] Test Tokens](faq/erc20-test-tokens.md)
 
-## Deploy\(Mine\) Meson <a id="deploy-meson"></a>
+## Deploy(Mine) Meson <a href="deploy-meson" id="deploy-meson"></a>
 
 * [General Instructions](deploy-meson/general-instructions.md)
 * [Deploy to Linux](deploy-meson/deploy-to-linux.md)
@@ -18,11 +19,17 @@
 * [Accelerate Full Website](use-cdn-services-of-meson/accelerate-full-website.md)
 * [Accelerate a Single File](use-cdn-services-of-meson/accelerate-a-single-file.md)
 
-## DOCS TODO <a id="todo"></a>
+## ERC20 Meson Tokens
 
----
+***
 
-* [Website](https://meson.network/)
+* [ERC20 Meson TestTokens](erc20-meson-testtokens.md)
+
+## DOCS TODO <a href="todo" id="todo"></a>
+
+***
+
+* [Website](https://meson.network)
 * [Twitter](https://twitter.com/NetworkMeson)
 * [Discord](https://discord.gg/z6YfSHDkmS)
 * [Telegram](https://t.me/mesonnetwork)
@@ -37,4 +44,3 @@
 ## Reference but not recommended
 
 * [Google Cloud Platform](reference-but-not-recommended/google-cloud-platform.md)
-
