@@ -6,7 +6,7 @@
   * [Minning](faq/minning.md)
   * [About Blockchain](faq/about-blockchain.md)
   * [TestNet Period](faq/test-period.md)
-  * [\[ERC20\] Test Tokens](faq/erc20-test-tokens.md)
+  * [Test Tokens - ERC20](faq/test-tokens-erc20.md)
 
 ## Deploy(Mine) Meson <a href="deploy-meson" id="deploy-meson"></a>
 
@@ -17,13 +17,12 @@
 ## Use CDN Services of Meson
 
 * [Accelerate Full Website](use-cdn-services-of-meson/accelerate-full-website.md)
-* [Accelerate a Single File](use-cdn-services-of-meson/accelerate-a-single-file.md)
 
 ## ERC20 Meson Tokens
 
 ***
 
-* [ERC20 Meson TestTokens](erc20-meson-testtokens.md)
+* [Meson TestTokens to Ethereum](meson-testtokens-to-ethereum.md)
 
 ## DOCS TODO <a href="todo" id="todo"></a>
 

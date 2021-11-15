@@ -1,4 +1,8 @@
-# ERC20 Meson TestTokens
+---
+description: The Meson Test Token is now boarding to Ethereum.
+---
+
+# Meson TestTokens to Ethereum
 
 ## Preparation
 
@@ -50,8 +54,18 @@ After the approval, the status will be "Finished", now you can click "Get Token"
 
 ![](<.gitbook/assets/Get Token.jpg>)
 
-You have to pay the gas fee for every operation at the Ethereum network, unfortunately, it is quite expensive yet. It may take about 5 minutes to confirm this operation. And then, you could see the status of your exchange turns to Finished.
+You have to pay the gas fee for every operation at the Ethereum network, unfortunately, it is quite expensive yet. It may take about 1 to 15 minutes to confirm this operation. And then, you could see the status of your exchange turns to Finished.
 
 ## Stake
 
-...
+On the Dashboard of [Meson.network](https://meson.network), there are "TokenBalance" and "Stake" pages. Doing the EXCHANGE at "TokenBalance" transfers your tokens from the database of Meson to the blockchain of Ethereum. And doing the STAKE at "Stake" transfers your tokens from the blockchain of Ethereum back to the database of Meson.
+
+![](<.gitbook/assets/image (9).png>)
+
+Notification: As mentioned above, the default status of your test tokens is already STAKE. However, you can't get any earnings for the status of Stake yet. So please do not exchange your Meson Test Tokens if you wish to stake them, as it would just cost two times your Ethereum gas fee while back to square one.
+
+If you want to transfer your Meson Test Tokens back to the database of Meson showing on the dashboard of the Meson website. You could stake them back.
+
+Metamask is also used for this operation, input the stake amount and click "stake", you will be able to receive this transfer in 1 to 15 minutes after paying the Ethereum gas fee.&#x20;
+
+![](<.gitbook/assets/image (10).png>)
