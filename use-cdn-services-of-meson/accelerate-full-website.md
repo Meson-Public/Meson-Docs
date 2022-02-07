@@ -22,6 +22,10 @@ The first-time visit will still be redirected to the source link; but after the 
 
 
 
+
+
+Yeah, that's all. Meson provides standard HTTP 302 redirections with no heavy SDK integration and can be used to transmit video globally, some simple clicks and the replacement of the URL prefix are all operations. Welcome to use and enjoy!
+
 Here is the example that we use Meson to accelerate [IPFS.IO](https://ipfs.io)
 
 {% embed url="https://www.youtube.com/watch?v=abOEAD4fzAA" %}
