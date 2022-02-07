@@ -16,9 +16,9 @@ Click "Check Input Url" and "Add Record" if it is validated.
 
 **Step3, Change the original path into the new one.**
 
-Change the source link of the resources on your own websites.
+Change the source link of the resources on your websites.&#x20;
 
-The first-time visit will still be redirected to the source link, but after the resources are already cached, your website resources could be well distributed to worldwide visitors at high speed by the decentralized terminals of Meson Network.
+The first-time visit will still be redirected to the source link; but after the resources are already cached, your website resources could be well distributed to worldwide visitors at high speed by the decentralized terminals of Meson Network.
 
 
 
